@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi there! I'm Mahmoud Hamdan
 
-<!--
-**MahmoudHamdan8/MahmoudHamdan8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Engineering Graduate** from Birzeit University  
+💻 Passionate about software development, problem-solving, and building real-world tech solutions.  
+🚀 Currently learning **ReactJS** to grow my front-end expertise.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Languages**  
+Python | Java | C | C# | Dart | Verilog | HTML & CSS | Shell Script
+
+**Frameworks & Tools**  
+Flutter | Flask | ASP.NET | Git | Linux CLI
+
+**Domains**  
+- Full-Stack Web Development  
+- Mobile App Development  
+- Artificial Intelligence & Machine Learning  
+- Embedded Systems & Simulation  
+- Software Design & UML Modeling
+
+---
+
+## 📫 Let's Connect!
+
+- 📧 **Email**: mahmoud.muhamdan@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mahmoud-hamdan-77a718277/)  
+- 💡 Open to internships, freelance opportunities, and full-time roles!
+
+---
+
+> ⚡ “I love solving real-world problems with clean, scalable code — always learning, always improving.”
