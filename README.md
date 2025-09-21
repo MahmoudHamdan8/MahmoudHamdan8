@@ -2,7 +2,6 @@
 
 🎓 **Computer Engineering Graduate** from Birzeit University  
 💻 Passionate about software development, problem-solving, and building real-world tech solutions.  
-🚀 Currently learning **ReactJS** to grow my front-end expertise.
 
 ---
 
